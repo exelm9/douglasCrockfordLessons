@@ -1,0 +1,8 @@
+h1{
+  text-align: center;
+}
+
+#fadeClosure1, #fadeClosure2{
+  width: 200px;
+  height: 20px;
+}
